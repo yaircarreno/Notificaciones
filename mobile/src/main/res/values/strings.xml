@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wear Notification</string>
+
+    <string name="text_notification">Notification simple</string>
+    <string name="text_notification_action">Notification with action</string>
+    <string name="title_notification">Title Notification</string>
+    <string name="map">Go to Google Map</string>
+    <string name="action_settings">Settings</string>
+</resources>
