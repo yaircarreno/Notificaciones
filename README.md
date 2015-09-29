@@ -1,5 +1,5 @@
 # Notificaciones
-Proyecto Android wear que muestra el uso de notificaciones.
+Proyecto Android wear que muestra la implementación de notificaciones a través de NotificationManagerCompat.
 
 ## Mobile
 Contiene la implementación de la aplicación smartphone
