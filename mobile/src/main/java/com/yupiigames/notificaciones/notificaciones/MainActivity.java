@@ -20,14 +20,14 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        //Add onClickListener to button one
         findViewById(R.id.button_notification).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 onButtonClicked(v);
             }
         });
-
+        //Add onClickListener to button one
         findViewById(R.id.button_notification_with_action).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
